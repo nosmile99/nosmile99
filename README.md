@@ -11,6 +11,6 @@ I find real bugs in real open-source projects, verify them empirically, and ship
 ## Current focus
 
 - Upstream contributions to open-source projects I actually use
-- Maintaining the [interventus](https://github.com/interventus) org — OSS people actually use
+- Maintaining the [interventus](https://github.com/interventus) org (being rebuilt from scratch)
 
 Every fix ships with proof: failing test first, green suite after. 😐
